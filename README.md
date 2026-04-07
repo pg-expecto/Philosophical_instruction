@@ -3,6 +3,7 @@ Philosophical Instruction v3.5 Beta — Vorontsov Edition  Философско�
 
 ## Другие мои инструкции:
 [INSTRUCTION GENTLEMAN](https://github.com/Loc-ID/instruction-gentleman)
+
 [BRO](https://github.com/Loc-ID/BRO).
 
 ## Как запустить
